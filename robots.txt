@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ssl3215.github.io/ai-building-energy-prediction/sitemap.xml
